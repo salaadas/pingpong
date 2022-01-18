@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "/usr/local/Cellar/gcc/11.2.0_3/include/c++/11/x86_64-apple-darwin20/",
+        "${workspaceFolder}/**",
+        "/usr/local/include/SDL2",
+        "/usr/local/include/c++/11"
+      ],
+      "defines": [],
+      "macFrameworkPath": [
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+      ],
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
